@@ -1,0 +1,10 @@
+C:\Users\msı\source\repos\Stored_deneme1\Stored_deneme1\bin\Debug\Stored_deneme1.exe.config
+C:\Users\msı\source\repos\Stored_deneme1\Stored_deneme1\bin\Debug\Stored_deneme1.exe
+C:\Users\msı\source\repos\Stored_deneme1\Stored_deneme1\bin\Debug\Stored_deneme1.pdb
+C:\Users\msı\source\repos\Stored_deneme1\Stored_deneme1\obj\Debug\Stored_deneme1.csprojAssemblyReference.cache
+C:\Users\msı\source\repos\Stored_deneme1\Stored_deneme1\obj\Debug\Stored_deneme1.Form1.resources
+C:\Users\msı\source\repos\Stored_deneme1\Stored_deneme1\obj\Debug\Stored_deneme1.Properties.Resources.resources
+C:\Users\msı\source\repos\Stored_deneme1\Stored_deneme1\obj\Debug\Stored_deneme1.csproj.GenerateResource.cache
+C:\Users\msı\source\repos\Stored_deneme1\Stored_deneme1\obj\Debug\Stored_deneme1.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\Stored_deneme1\Stored_deneme1\obj\Debug\Stored_deneme1.exe
+C:\Users\msı\source\repos\Stored_deneme1\Stored_deneme1\obj\Debug\Stored_deneme1.pdb
